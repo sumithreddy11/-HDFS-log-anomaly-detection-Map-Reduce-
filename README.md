@@ -1,17 +1,13 @@
-# -HDFS-log-anomaly-detection-Map-Reduce-
+# HDFS Log Anomaly Detection using MapReduce and Machine Learning
 Scalable anomaly detection system for HDFS logs using Hadoop MapReduce for feature extraction and Random Forest for classification.
 
-
-
-# HDFS Log Anomaly Detection using MapReduce and Machine Learning
-
-##  Overview
+## Overview
 This project implements a scalable anomaly detection system for distributed system logs using Hadoop MapReduce and Machine Learning.
 
-##  Problem Statement
+Problem Statement
 Detect anomalous behavior in HDFS logs using distributed processing and predictive modeling.
 
-##  Dataset
+## Dataset
 - HDFS structured log dataset (100k logs)
 - Key columns:
   - LineId
