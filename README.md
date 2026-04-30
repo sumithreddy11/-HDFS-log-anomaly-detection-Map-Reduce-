@@ -39,8 +39,8 @@ HDFS Logs → MapReduce → Feature Matrix → ML Model → Prediction
 ## Results
 
 Confusion Matrix:
-[[340 17]
- [2 61]]
+[340 17]
+[2   61]
 
 - Accuracy: 95%
 - Recall (Anomaly): 97%
