@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="Gemini_Generated_Image_75bmtx75bmtx75bm" src="https://github.com/user-attachments/assets/c9a0d9fc-eeac-43d4-a484-fb05b4f6c2a5" /># HDFS Log Anomaly Detection using MapReduce and Machine Learning
+# HDFS Log Anomaly Detection using MapReduce and Machine Learning
 Scalable anomaly detection system for HDFS logs using Hadoop MapReduce for feature extraction and Random Forest for classification.
 
 ## Overview
