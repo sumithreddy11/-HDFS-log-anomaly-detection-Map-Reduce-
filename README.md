@@ -30,7 +30,8 @@ Detect anomalous behavior in HDFS logs using distributed processing and predicti
 
 ## Pipeline
 
-HDFS Logs → MapReduce → Feature Matrix → ML Model → Prediction
+![Uploading Gemini_Generated_Image_75bmtx75bmtx75bm.png…]()
+
 
 ## Results
 
