@@ -40,6 +40,7 @@ Confusion Matrix:
 <img width="507" height="455" alt="image" src="https://github.com/user-attachments/assets/b5f3673a-3758-4c29-9f23-61adb8cb494d" />
 
 
+
 - Accuracy: 95%
 - Recall (Anomaly): 97%
 - Precision: 78%
